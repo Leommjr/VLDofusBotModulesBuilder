@@ -1,0 +1,12 @@
+[submodule "VLDofusBotCore"]
+	path = VLDofusBotCore
+	url = https://github.com/viclew1/VLDofusBotCore.git
+[submodule "VLDofusBotSniffer"]
+	path = VLDofusBotSniffer
+	url = https://github.com/viclew1/VLDofusBotSniffer.git
+[submodule "VLDofusBot"]
+	path = VLDofusBot
+	url = https://github.com/viclew1/VLDofusBot.git
+[submodule "DofusProtocolUpdater"]
+	path = DofusProtocolUpdater
+	url = https://github.com/viclew1/DofusProtocolUpdater
